@@ -4,7 +4,9 @@
   "title": "Countries by Population",
   "description": "Guess which country has a larger population.",
   "image": "https://media.istockphoto.com/id/1357524756/photo/big-crowd-of-people-people-gathered-together-in-one-place-top-view-from-drone.jpg?s=612x612&w=0&k=20&c=8rxctYW7JcEelIZx05-UocZ254knephuT8_4VznIEsw=",
-  "tags": ["geography"],
+  "tags": [
+    "geography"
+  ],
   "seo": {
     "title": "Higher or Lower: Countries by Population",
     "description": "Explore global demographics! Can you guess which country has a larger population. Challenge your knowledge with this Higher or Lower quiz!",
@@ -23,5 +25,5 @@
     "noun": "people"
   },
   "created": 1699892790488,
-  "updated": 1701049450935
+  "updated": 1712710643975
 }

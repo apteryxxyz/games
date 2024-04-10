@@ -4,7 +4,9 @@
   "title": "Countries by Population Density",
   "description": "Figure out which country has a higher population density?",
   "image": "https://static.boredpanda.com/blog/wp-content/uploads/2016/03/drone-photography-hong-kong-density-andy-yeung-fb.png",
-  "tags": ["geography"],
+  "tags": [
+    "geography"
+  ],
   "seo": {
     "title": "Higher or Lower: Countries by Population Density",
     "description": "Navigate through population densities! Can you figure out which country has a higher population density? Test your geographical knowledge with this Higher or Lower quiz!",
@@ -23,5 +25,5 @@
     "suffix": " ppl/km²"
   },
   "created": 1701041617843,
-  "updated": 1701049451428
+  "updated": 1712710644134
 }

@@ -4,7 +4,9 @@
   "title": "Countries by Fertility Rate",
   "description": "Guess which country has a higher fertility rate?",
   "image": "https://www.thoughtco.com/thmb/P7hEFaW1iP-1lio7XXepS4-QYtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/171234783-58b9d07e3df78c353c38b7e0.jpg",
-  "tags": ["geography"],
+  "tags": [
+    "geography"
+  ],
   "seo": {
     "title": "Higher or Lower: Countries by Fertility Rate",
     "description": "Embark on a demographic journey! Can you guess which country has a higher fertility rate? Test your knowledge with this engaging Higher or Lower quiz!",
@@ -22,5 +24,5 @@
     "noun": "fertility rate"
   },
   "created": 1701047750223,
-  "updated": 1701049441357
+  "updated": 1712710642522
 }
