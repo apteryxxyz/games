@@ -1,5 +1,85 @@
 [
   {
+    "name": "Dominator FX Cruiser",
+    "value": 4950000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dominator-fx-cruiser.jpg"
+  },
+  {
+    "name": "Impaler LX Cruiser",
+    "value": 4800000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/impaler-lx-cruiser.jpg"
+  },
+  {
+    "name": "Dominator FX",
+    "value": 1550000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dominator-fx.jpg"
+  },
+  {
+    "name": "Vorschlaghammer",
+    "value": 1790000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/vorschlaghammer.jpg"
+  },
+  {
+    "name": "Pizza Boy",
+    "value": 195000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/faggio-sport-pizza.jpg"
+  },
+  {
+    "name": "Castigator",
+    "value": 1650000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/castigator.jpg"
+  },
+  {
+    "name": "Impaler SZ Cruiser",
+    "value": 4720000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/emergency/impaler-sz-cruiser.jpg"
+  },
+  {
+    "name": "Dorado Cruiser",
+    "value": 5005000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/emergency/dorado-cruiser.jpg"
+  },
+  {
+    "name": "Greenwood Cruiser",
+    "value": 4910000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/emergency/greenwood-cruiser.jpg"
+  },
+  {
+    "name": "Yosemite 1500",
+    "value": 1205000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/off-road/yosemite-1500.jpg"
+  },
+  {
+    "name": "Envisage",
+    "value": 2472000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/sports/envisage.jpg"
+  },
+  {
+    "name": "Paragon S",
+    "value": 2010000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/sports/paragon-s.jpg"
+  },
+  {
+    "name": "Niobe",
+    "value": 1880000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/sports/niobe.jpg"
+  },
+  {
+    "name": "Euros X32",
+    "value": 1499000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/coupes/euros-x32.jpg"
+  },
+  {
+    "name": "Coquette D1",
+    "value": 1500000,
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/sports-classic/coquette-d1.jpg"
+  },
+  {
+    "name": "Pipistrello",
+    "value": 2950000,
+    "image": "https://www.gtabase.com/igallery/gta-online-screens/gtaonline-overflod-pipistrello-360.jpg"
+  },
+  {
     "name": "Boxville (LSDS)",
     "value": 475000,
     "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/boxville-lsds.jpg"
@@ -7,37 +87,37 @@
   {
     "name": "Benson (Cluckin' Bell)",
     "value": 685000,
-    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/truck1.png"
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/commercial/benson-cluckin-bell.jpg"
   },
   {
     "name": "Cavalcade XL",
     "value": 1665000,
-    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/suv4.png"
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/suvs/cavalcade-xl.jpg"
   },
   {
     "name": "Baller ST-D",
     "value": 1715000,
-    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/suv3.png"
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/suvs/baller-st-d.jpg"
   },
   {
     "name": "Terminus",
     "value": 1877500,
-    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/suv2.png"
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/off-road/terminus.jpg"
   },
   {
     "name": "Dorado",
     "value": 1375000,
-    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/suv1.png"
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/suvs/dorado.jpg"
   },
   {
     "name": "Impaler SZ",
     "value": 1280000,
-    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/car1.png"
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/sedans/impaler-sz.jpg"
   },
   {
     "name": "Police Gauntlet Interceptor",
     "value": 5420000,
-    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/police1.png"
+    "image": "https://www.gtabase.com/images/gta-5/vehicles/temp/dripfeed-chop-shop/police1-2.png"
   },
   {
     "name": "FR36",
