@@ -51,6 +51,7 @@ jobs:
         run: |
           cd apps/next
           pnpm qwaroo games update all
+          pnpm qwaroo games combine
 
       - name: Commit changes
         run: |
