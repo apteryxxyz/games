@@ -25,7 +25,7 @@
       "noun": "fertility rate"
     },
     "created": 1701047750223,
-    "updated": 1727918082427
+    "updated": 1728004477068
   },
   {
     "mode": "higher-or-lower",
@@ -54,7 +54,7 @@
       "suffix": " km²"
     },
     "created": 1699892774511,
-    "updated": 1727918082868
+    "updated": 1728004477615
   },
   {
     "mode": "higher-or-lower",
@@ -82,7 +82,7 @@
       "noun": "median age"
     },
     "created": 1701045111201,
-    "updated": 1727918082997
+    "updated": 1728004477757
   },
   {
     "mode": "higher-or-lower",
@@ -111,7 +111,7 @@
       "noun": "people"
     },
     "created": 1699892790488,
-    "updated": 1727918083109
+    "updated": 1728004477893
   },
   {
     "mode": "higher-or-lower",
@@ -140,7 +140,7 @@
       "suffix": " ppl/km²"
     },
     "created": 1701041617843,
-    "updated": 1727918083210
+    "updated": 1728004478016
   },
   {
     "mode": "higher-or-lower",
@@ -169,7 +169,7 @@
       "noun": "views"
     },
     "created": 1699892859945,
-    "updated": 1727918085298
+    "updated": 1728004480320
   },
   {
     "mode": "higher-or-lower",
@@ -290,7 +290,7 @@
       "noun": "views"
     },
     "created": 1699892859945,
-    "updated": 1727918092430
+    "updated": 1728004487577
   },
   {
     "mode": "higher-or-lower",
@@ -317,6 +317,6 @@
       "noun": "views"
     },
     "created": 1699892859945,
-    "updated": 1727918094608
+    "updated": 1728004489743
   }
 ]
